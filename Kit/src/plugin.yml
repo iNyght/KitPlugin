@@ -1,0 +1,8 @@
+name: Kits
+version: 1.0
+author: iNyght
+main: me.inyght.kit.Main
+api-version: 1.16
+
+commands:
+  kits:
